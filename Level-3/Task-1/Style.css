@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  font-family: sans-serif;
+}
+.one-peace {
+  padding: 5px;
+  margin: 70px 0 0 200px;
+  width: 70%;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.one-peace img {
+  width: 10%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 2px solid white(255, 255, 255, 0.684);
+  transition: all ease-in-out 0.5sec;
+}
+.one-peace img:hover {
+  width: 25%;
+}
