@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+}
+.topnav {
+  padding: 20px;
+  background-color: orange;
+}
+.topnav a {
+  color: darkblue;
+  padding: 15px 17px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  color: grey;
+}
+.head {
+  color: blue;
+  font-size: 30px;
+}
+.head:hover {
+  color: violet;
+}
+.para {
+  color: black;
+  font-size: 35px;
+}
+#about {
+  padding: 20px;
+}
+.detail {
+  font-size: 20px;
+  padding: 50px;
+  background-color: lightgrey;
+}
+#button {
+  font-size: 20px;
+  color: white;
+  background-color: #007fff;
+}
