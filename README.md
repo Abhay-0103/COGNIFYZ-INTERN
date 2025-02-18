@@ -1,2 +1,2 @@
-# Intership 
+# INTERNSHIP
 WEB-DEVELOPMENT
